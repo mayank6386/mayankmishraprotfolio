@@ -1,45 +1,33 @@
-# 🌐 Aditya Gupta — Personal Portfolio Website
+🌐 Personal Portfolio Website
 
-Welcome to my fully responsive and modern **personal portfolio website**, designed and developed using **HTML** **CSS**and ** JavaScript**. This portfolio highlights my work as a Full Stack Developer and UI/UX Designer, showcasing projects, skills, resume, and achievements.
+This is my personal portfolio website showcasing my projects, skills, and experience as a Computer Science student and aspiring software developer.
 
-## 🚀 Live Demo
+🚀 Features
 
-🔗 [Visit Live Portfolio](https://incomparable-salmiakki-9e333a.netlify.app/) 
+Responsive and modern UI
 
-## 🛠 Tech Stack
+Project showcase with descriptions
 
-- **Frontend:** HTML,  CSS, JavaScript, Framer Motion
-- **Design:** Figma (for wireframes and mockups)
-- **Deployment:** Netlify 
+Skills and technology stack section
 
-## 📸 Screenshots
+About me and contact details
 
-### 🖥️ Desktop View
-![Home Section - Desktop]
-![Screenshot 2025-05-26 074756](https://github.com/user-attachments/assets/7baf7c3e-a57f-4ca3-9f38-2da30ecef9f3)
+🛠️ Tech Stack
 
+HTML
 
-![Projects Section - Desktop]
-![Screenshot 2025-05-26 074808](https://github.com/user-attachments/assets/b38633b5-1b45-44ae-b1d2-9a4a65b6c2b6)
-![Screenshot 2025-05-26 074826](https://github.com/user-attachments/assets/739210f8-843e-4b6d-b1f3-50a441753354)
+CSS
 
-### 📱 Mobile View
+JavaScript
 
-![Home Section - Mobile]
-![Screenshot 2025-05-26 075350](https://github.com/user-attachments/assets/993fd377-24c5-459b-8aad-7cb93c337b91)
+🔗 Live Demo
 
+👉 Portfolio: https://mayankprotfolio.netlify.app/
 
+📂 GitHub Repository
 
+This project is hosted on GitHub and deployed using Netlify.
 
+📌 Purpose
 
-## ✨ Features
-
-- Clean and responsive UI
-- Interactive project showcase
-- Resume download option
-- Smooth scrolling and animations
-- Contact form section (UI only)
-- Mobile-friendly design
-
-## 📂 Project Structure
-
+The portfolio is built to present my work, highlight hands-on projects, and provide an easy way for recruiters and collaborators to connect with me.
